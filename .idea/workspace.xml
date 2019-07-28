@@ -1,0 +1,688 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="paint:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4844bdd9-7cd0-4bb4-a157-bef2b11cc17c" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/paint$Run.ic" NAME="Run Coverage Results" MODIFIED="1556548735470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.li.paint.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/li/paint/Run.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="e#121#122#0" expanded="true" />
+                <element signature="e#143#144#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>midX</find>
+      <find>isSelected</find>
+      <find>鼠标</find>
+      <find>TYPE_POLYGON</find>
+      <find>getMin</find>
+      <find>layout</find>
+      <find>clipRect</find>
+      <find>setbounds</find>
+      <find>type</find>
+      <find>circu</find>
+      <find>TYPE_STRAIGHT_LINE</find>
+      <find>getWidth</find>
+      <find>mouseListener</find>
+      <find>add</find>
+      <find>isSymmetry</find>
+      <find>this.setbounds</find>
+      <find>this.</find>
+      <find>setBounds</find>
+      <find>startX</find>
+      <find>fillColor</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/paint/bean/Graphic.java" />
+        <option value="$PROJECT_DIR$/src/com/li/paint/Run.java" />
+        <option value="$PROJECT_DIR$/src/com/li/paint/canvas/DrawCanvas.java" />
+        <option value="$PROJECT_DIR$/src/com/li/paint/canvas/MyCanvas.java" />
+        <option value="$PROJECT_DIR$/src/com/li/paint/bean/Graphic.java" />
+        <option value="$PROJECT_DIR$/src/com/li/paint/image/StraightLineImage.java" />
+        <option value="$PROJECT_DIR$/src/com/li/paint/frame/MyFrame.java" />
+        <option value="$PROJECT_DIR$/src/com/li/paint/panel/MyPanel.java" />
+        <option value="$PROJECT_DIR$/src/com/li/paint/panel/BasicPanel.java" />
+        <option value="$PROJECT_DIR$/src/com/li/paint/panel/GraphicPanel.java" />
+        <option value="$PROJECT_DIR$/src/com/li/paint/panel/DrawPanel.java" />
+        <option value="$PROJECT_DIR$/src/com/li/paint/panel/ToolPanel.java" />
+        <option value="$PROJECT_DIR$/src/com/li/paint/panel/basic/RightAngleLinePanel.java" />
+        <option value="$PROJECT_DIR$/src/com/li/paint/panel/RightAngleLinePanel.java" />
+        <option value="$PROJECT_DIR$/src/com/li/paint/panel/ArcPanel.java" />
+        <option value="$PROJECT_DIR$/src/com/li/paint/utils/MyRadioButton.java" />
+        <option value="$PROJECT_DIR$/src/com/li/paint/utils/TitleTextField.java" />
+        <option value="$PROJECT_DIR$/src/com/li/paint/component.java" />
+        <option value="$PROJECT_DIR$/src/com/li/paint/bean/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/li/paint/panel/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/li/paint/panel/CharacterPanel.java" />
+        <option value="$PROJECT_DIR$/src/com/li/paint/panel/tool/FillPanel.java" />
+        <option value="$PROJECT_DIR$/src/com/li/paint/panel/basic/BasicPanel.java" />
+        <option value="$PROJECT_DIR$/src/com/li/paint/frame/MainFrame.java" />
+        <option value="$PROJECT_DIR$/src/com/li/paint/component/MyRadioButton.java" />
+        <option value="$PROJECT_DIR$/src/com/li/paint/Test2.java" />
+        <option value="$PROJECT_DIR$/src/com/li/paint/SierpinskiStarterCode.java" />
+        <option value="$PROJECT_DIR$/src/com/li/paint/utils/LineUtil.java" />
+        <option value="$PROJECT_DIR$/src/com/li/paint/panel/StraightLinePanel.java" />
+        <option value="$PROJECT_DIR$/src/com/li/paint/panel/tool/LinePanel.java" />
+        <option value="$PROJECT_DIR$/src/com/li/paint/panel/main/ToolPanel.java" />
+        <option value="$PROJECT_DIR$/src/com/li/paint/panel/tool/TransPanel.java" />
+        <option value="$PROJECT_DIR$/src/com/li/paint/panel/BrokenLinePanel.java" />
+        <option value="$PROJECT_DIR$/src/com/li/paint/panel/RectanglePanel.java" />
+        <option value="$PROJECT_DIR$/src/com/li/paint/panel/RoundedRectanglePanel.java" />
+        <option value="$PROJECT_DIR$/src/com/li/paint/panel/OvalPanel.java" />
+        <option value="$PROJECT_DIR$/src/com/li/paint/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/li/paint/utils/Common.java" />
+        <option value="$PROJECT_DIR$/src/com/li/paint/panel/NamePanel.java" />
+        <option value="$PROJECT_DIR$/src/com/li/paint/panel/basic/GraphicPanel.java" />
+        <option value="$PROJECT_DIR$/src/com/li/paint/panel/tool/FunctionPanel.java" />
+        <option value="$PROJECT_DIR$/src/SierpinskiStarterCode.java" />
+        <option value="$PROJECT_DIR$/src/com/li/paint/panel/main/DrawPanel.java" />
+        <option value="$PROJECT_DIR$/src/com/li/paint/utils/Utils.java" />
+        <option value="$PROJECT_DIR$/src/com/li/paint/panel/PolygonPanel.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="247" />
+    <option name="y" value="31" />
+    <option name="width" value="1408" />
+    <option name="height" value="864" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/workspace_for_idea/paint/src/com/li/paint/panel/basic/GraphicPanel.java" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556785950907" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\workspace_for_idea\paint\src\com\li\paint" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace_for_idea\paint\src" />
+      <recent name="D:\workspace_for_idea\paint\libs" />
+      <recent name="D:\workspace_for_idea\paint\src\com\li\paint\bean" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Run">
+    <configuration name="Run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.li.paint.Run" />
+      <module name="paint" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.li.paint.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SierpinskiStarterCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.li.paint.SierpinskiStarterCode" />
+      <module name="paint" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.li.paint.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SierpinskiStarterCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SierpinskiStarterCode" />
+      <module name="paint" />
+      <option name="PROGRAM_PARAMETERS" value="320 240 12 #ffff00 sierpinski-demo.png" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.li.paint.Test" />
+      <module name="paint" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.li.paint.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.li.paint.Test2" />
+      <module name="paint" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.li.paint.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Run" />
+      <item itemvalue="Application.Test (1)" />
+      <item itemvalue="Application.Test2" />
+      <item itemvalue="Application.SierpinskiStarterCode" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Run" />
+        <item itemvalue="Application.SierpinskiStarterCode" />
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.SierpinskiStarterCode" />
+        <item itemvalue="Application.Test2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4844bdd9-7cd0-4bb4-a157-bef2b11cc17c" name="Default Changelist" comment="" />
+      <created>1556162502237</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556162502237</updated>
+      <workItem from="1556162505512" duration="37033000" />
+      <workItem from="1556240466766" duration="14419000" />
+      <workItem from="1556266399642" duration="19000000" />
+      <workItem from="1556325102486" duration="5265000" />
+      <workItem from="1556334247034" duration="706000" />
+      <workItem from="1556339112518" duration="21452000" />
+      <workItem from="1556426447525" duration="35360000" />
+      <workItem from="1556503428500" duration="18329000" />
+      <workItem from="1556538538304" duration="12204000" />
+      <workItem from="1556593456585" duration="33222000" />
+      <workItem from="1556676541604" duration="29510000" />
+      <workItem from="1556760590782" duration="12350000" />
+      <workItem from="1556773481896" duration="25000" />
+      <workItem from="1556774303377" duration="10346000" />
+      <workItem from="1556785755810" duration="701000" />
+      <workItem from="1556797759232" duration="1060000" />
+      <workItem from="1556799958710" duration="611000" />
+      <workItem from="1560852137970" duration="131000" />
+      <workItem from="1561214609786" duration="58000" />
+      <workItem from="1562718797462" duration="48000" />
+      <workItem from="1562720017239" duration="151000" />
+      <workItem from="1564288593230" duration="104000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="252085000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="198" y="25" width="1126" height="691" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3220974" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49865952" weight="0.48214287" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.25637394" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5013405" side_tool="true" weight="0.23654391" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32719547" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" />
+      <window_info anchor="right" id="Maven" order="10" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/awt/Point.java" />
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/lang/Math.java" />
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/jre/lib/rt.jar!/sun/print/ProxyGraphics2D.class" />
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/jre/lib/rt.jar!/sun/print/PeekGraphics.class" />
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/jre/lib/rt.jar!/sun/java2d/SunGraphics2D.class" />
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/awt/Graphics.java" />
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/awt/Graphics2D.java" />
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/awt/Image.java" />
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/javax/swing/SwingUtilities.java" />
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/javax/swing/JComponent.java" />
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/awt/geom/AffineTransform.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/li/paint/Test2.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/li/paint/SierpinskiStarterCode.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/li/paint/component/MyRadioButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-146">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/li/paint/frame/MainFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="503">
+          <caret line="43" column="5" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/javax/swing/BoxLayout.java" />
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/awt/Rectangle.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/li/paint/component/TitleTextField.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="15" column="63" lean-forward="true" selection-start-line="15" selection-start-column="63" selection-end-line="15" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/awt/Color.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/li/paint/panel/tool/FillPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="136" column="48" selection-start-line="136" selection-start-column="39" selection-end-line="136" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/li/paint/panel/tool/LinePanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="81" column="20" lean-forward="true" selection-start-line="81" selection-start-column="20" selection-end-line="85" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/li/paint/panel/ArcPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4">
+          <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/li/paint/panel/BrokenLinePanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/li/paint/panel/CharacterPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3">
+          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/li/paint/panel/OvalPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="729">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#242#243#0" expanded="true" />
+            <element signature="e#291#292#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/li/paint/utils/LineUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="501">
+          <caret line="30" column="18" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/awt/image/BufferedImage.java" />
+    <entry file="file://$PROJECT_DIR$/img" />
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/javax/swing/ButtonGroup.java" />
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/awt/event/ItemEvent.java" />
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/javax/swing/JComboBox.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/li/paint/panel/main/ToolPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="455">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/li/paint/panel/basic/BasicPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="41" column="19" selection-start-line="41" selection-start-column="19" selection-end-line="41" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/li/paint/panel/RoundedRectanglePanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/li/paint/panel/basic/GraphicPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3475">
+          <caret line="148" column="30" selection-start-line="148" selection-start-column="30" selection-end-line="148" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/li/paint/panel/StraightLinePanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#224#225#0" expanded="true" />
+            <element signature="e#273#274#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/li/paint/utils/Common.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1375">
+          <caret line="55" column="45" selection-start-line="55" selection-start-column="40" selection-end-line="55" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/li/paint/panel/NamePanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/li/paint/panel/CurvePanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SierpinskiStarterCode.java" />
+    <entry file="file://$PROJECT_DIR$/sierpinski-demo.png" />
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/awt/geom/Area.java" />
+    <entry file="file://$PROJECT_DIR$/img.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/li/paint/panel/RectanglePanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="33" column="40" selection-start-line="33" selection-start-column="40" selection-end-line="33" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/li/paint/panel/tool/TransPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1843">
+          <caret line="109" selection-start-line="109" selection-end-line="109" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/li/paint/utils/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4332">
+          <caret line="245" column="5" selection-start-line="245" selection-start-column="5" selection-end-line="245" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/li/paint/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/li/paint/panel/PolygonPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="155" selection-start-line="155" selection-end-line="155" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/li/paint/panel/main/DrawPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="429" selection-start-line="429" selection-end-line="429" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/li/paint/panel/tool/FunctionPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="57" column="43" selection-start-line="57" selection-start-column="43" selection-end-line="57" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/li/paint/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#121#122#0" expanded="true" />
+            <element signature="e#143#144#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>paint:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>paint</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>dom4j-2.1.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<list>
+  <rectangle>
+    <startX>546</startX>
+    <startY>195</startY>
+    <endX>744</endX>
+    <endY>339</endY>
+    <type>rectangle</type>
+    <lineWidth>1.0</lineWidth>
+    <lineStyle>3</lineStyle>
+    <lineColor>-16777216</lineColor>
+    <fillState>3</fillState>
+    <fillColor>-16777216</fillColor>
+    <filePath>C:\Users\李振刚\Desktop\timg.jpg</filePath>
+    <panelX>541</panelX>
+    <panelY>190</panelY>
+    <panelWidth>208</panelWidth>
+    <panelHeight>154</panelHeight>
+    <graphicX>5</graphicX>
+    <graphicY>5</graphicY>
+    <graphicWidth>198</graphicWidth>
+    <graphicHeight>144</graphicHeight>
+  </rectangle>
+  <rectangle>
+    <startX>885</startX>
+    <startY>336</startY>
+    <endX>1031</endX>
+    <endY>485</endY>
+    <type>rectangle</type>
+    <lineWidth>1.0</lineWidth>
+    <lineStyle>3</lineStyle>
+    <lineColor>-16777216</lineColor>
+    <fillState>3</fillState>
+    <fillColor>-16777216</fillColor>
+    <filePath>C:\Users\李振刚\Desktop\timg.jpg</filePath>
+    <panelX>880</panelX>
+    <panelY>331</panelY>
+    <panelWidth>156</panelWidth>
+    <panelHeight>159</panelHeight>
+    <graphicX>5</graphicX>
+    <graphicY>5</graphicY>
+    <graphicWidth>146</graphicWidth>
+    <graphicHeight>149</graphicHeight>
+  </rectangle>
+</list>
